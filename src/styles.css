@@ -2,14 +2,14 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
 .link {
   color: cornflowerblue;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: center;
-}
-.a {
-  display: block;
-  margin: 0 auto;
-  width: 400;
 }
